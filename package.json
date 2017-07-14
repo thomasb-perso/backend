@@ -1,0 +1,18 @@
+{
+  "name": "schibsted-api-server",
+  "description": "Small Server for API",
+  "version": "0.0.1",
+  "main" : "index.js",
+  "author": "Thomas Berger <berger_thomas@ymail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "dependencies": {
+    "express":"^4.15.3",
+    "xml":"^1.0.1"
+  },
+  "devDependencies": {
+    "nodemon" : "^1.11.0"
+  }
+}
